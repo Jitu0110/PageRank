@@ -1,0 +1,6 @@
+numpy
+scipy
+matplotlib
+networkx
+jupyter
+ipywidgets  # optional, for the interactive slider
