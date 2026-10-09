@@ -4,6 +4,7 @@ A hands-on Jupyter notebook that builds the PageRank algorithm from scratch, wit
 
 ## Contents
 
+0. Beginner's glossary of every term used
 1. Random surfer intuition
 2. Graph → column-stochastic transition matrix
 3. Power iteration and convergence
